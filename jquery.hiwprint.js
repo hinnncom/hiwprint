@@ -42,8 +42,7 @@
 
     $.fn.hiwprint.defaults = {
         importCss: true,
-        printContainer: true,
-        operaSupport: true
+        printContainer: true
     };
 
     function performPrint(iframeElement) {
